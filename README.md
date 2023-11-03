@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Bruna e tenho 19 anos. 
-- 👀 Eu estou interessado em tudo, Css, Html, Python e JavaScript.
-- 🌱 Eu recentemente estou estudando Html, Css e Java.
+- 💻 Sou uma desenvolvedora em treinamento.
+- 🌱 Estudando Html, Css, Java, Python e JavaScript.
 - 🎓 Cursando análise e desenvolvimento de sistemas na UNIFOR.
 
 
