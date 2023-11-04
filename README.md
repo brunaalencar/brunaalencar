@@ -1,5 +1,4 @@
 ## 👋 Olá, me chamo Bruna e tenho 19 anos.
-## Sobre mim:
 - 💻 Sou uma desenvolvedora em treinamento.
 - 🌱 Estou estudando HTML, CSS e JS.
 - 🎓 Cursando análise e desenvolvimento de sistemas na UNIFOR.
